@@ -18,7 +18,7 @@ Install all at once: Write in terminal `pip install -r requirements.txt`
 
 
 1. **Define Functions for Email and SMS:**
-   - Create a function `send_email()` to start a Gmail session, send the email, and quit the session.
+   - Create a function `send_email()` to start a Gmail session, send the email, and quit the session. You will need to get fast2sms account and get API key from it.
    - Implement a function `send_sms()` which verifies the API key and sends SMS using the fast2sms.com service.
 
 2. **Read Data and Check Birthdays:**
